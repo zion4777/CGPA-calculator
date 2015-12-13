@@ -1,0 +1,14 @@
+algorithm for calculating gpa
+
+1. Get all the courses and their various scores
+
+2. convert each course score/grade to the appropriate point (based on the point sytem, e.g B equals 4 points)
+
+3.add all the points together
+
+4. get the sum of all the courses credit units...i.e the credit load for that semester
+
+5. finally divide the result in step3 with step 4....i.e totalscoreforindividualgp/creditunitforthesemester
+
+
+also note that range in python is non-inclusive so range(0, 10) actually means from 0-9 the 10 is not included
