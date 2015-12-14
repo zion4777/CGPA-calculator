@@ -12,3 +12,7 @@ algorithm for calculating gpa
 
 
 also note that range in python is non-inclusive so range(0, 10) actually means from 0-9 the 10 is not included
+
+the gpa for a level is the 1st semester + 2semester divided by 2
+
+while your cgpa is all the gpa's for a level divided by the number of years for the course
